@@ -1,0 +1,19 @@
+{
+  "name": "webtechnologywtat1",
+  "version": "1.0.0",
+  "description": "WTAT 1 - Agile Web Development Summer Term 2021",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwoodmann/WebTechnologyWTAT1.git"
+  },
+  "author": "Florian Holzmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwoodmann/WebTechnologyWTAT1/issues"
+  },
+  "homepage": "https://github.com/fwoodmann/WebTechnologyWTAT1#readme"
+}
